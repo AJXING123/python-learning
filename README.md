@@ -16,3 +16,5 @@
 - 目标：90天掌握Python基础+自动化办公/爬虫等求职刚需技能
 
 | Day2      | 循环基础     | notes/day2-循环笔记.md | code/day2-循环练习.py  |
+
+| Day3      | 条件判断     | notes/day3-条件判断笔记.md | code/day3-条件判断练习.py  |

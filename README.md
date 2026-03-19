@@ -18,3 +18,5 @@
 | Day2      | 循环基础     | notes/day2-循环笔记.md | code/day2-循环练习.py  |
 
 | Day3      | 条件判断     | notes/day3-条件判断笔记.md | code/day3-条件判断练习.py  |
+
+| Day4      | 列表&字典     | notes/day4-列表字典笔记.md | code/day4-列表字典练习.py  |

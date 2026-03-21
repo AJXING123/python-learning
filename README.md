@@ -22,3 +22,5 @@
 | Day4      | 列表&字典     | notes/day4-列表字典笔记.md | code/day4-列表字典练习.py  |
 
 | Day5      | 函数基础     | notes/day5-函数笔记.md | code/day5-函数练习.py  |
+
+| Day6      | 文件操作     | notes/day6-文件操作笔记.md | code/day6-文件操作练习.py  |

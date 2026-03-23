@@ -26,3 +26,5 @@
 | Day6      | 文件操作     | notes/day6-文件操作笔记.md | code/day6-文件操作练习.py  |
 
 | Day7      | 异常处理     | notes/day7-异常处理笔记.md | code/day7-异常处理练习.py  |
+
+| Day8      | 模块与包     | notes/day8-模块与包笔记.md | code/day8-模块与包练习.py  |

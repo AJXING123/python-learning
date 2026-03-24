@@ -28,3 +28,5 @@
 | Day7      | 异常处理     | notes/day7-异常处理笔记.md | code/day7-异常处理练习.py  |
 
 | Day8      | 模块与包     | notes/day8-模块与包笔记.md | code/day8-模块与包练习.py  |
+
+| Day9      | 字符串操作     | notes/day9-字符串笔记.md | code/day9-字符串练习.py  |

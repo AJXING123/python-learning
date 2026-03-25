@@ -30,3 +30,5 @@
 | Day8      | 模块与包     | notes/day8-模块与包笔记.md | code/day8-模块与包练习.py  |
 
 | Day9      | 字符串操作     | notes/day9-字符串笔记.md | code/day9-字符串练习.py  |
+
+| Day10     | 综合项目-成绩管理系统 | notes/day10-综合项目笔记.md | code/day10-成绩管理系统.py |
